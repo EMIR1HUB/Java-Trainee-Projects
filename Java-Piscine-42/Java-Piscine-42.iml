@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_18">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/java_day05/EX00/Chat/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day04/EX02/ImagesToChar/lib" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX00/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX00/Chat/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX01/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX01/Chat/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX02/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX02/Chat/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX03/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/src/java_day05/EX03/Chat/.idea/dataSources" />
+    </content>
+    <orderEntry type="jdk" jdkName="18" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
