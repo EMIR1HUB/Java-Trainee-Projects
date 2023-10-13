@@ -8,5 +8,5 @@ JUnit, Reflection API, Spring <br>**Цель**: изучение и закреп
 
 ## Хакатоны
 
-[Fraud-Hackathon](https://github.com/CreativeWex/Opportunity-Cup-2022) - хакатон, приложение для отслеживания мошеннических банковских операций.
+[Fraud-Hackathon](https://github.com/EMIR1HUB/Java-Trainee-Projects/tree/main/Fraud_Hackathon) - хакатон, приложение для отслеживания мошеннических банковских операций.
 <br>**Цель**: ознакомление с BigData, практика работы с JSON.
